@@ -1,0 +1,13 @@
+C:\Users\jdani\source\repos\UniversityBinaryTree\UniversityBinaryTree\bin\Debug\netcoreapp3.1\UniversityBinaryTree.exe
+C:\Users\jdani\source\repos\UniversityBinaryTree\UniversityBinaryTree\bin\Debug\netcoreapp3.1\UniversityBinaryTree.deps.json
+C:\Users\jdani\source\repos\UniversityBinaryTree\UniversityBinaryTree\bin\Debug\netcoreapp3.1\UniversityBinaryTree.runtimeconfig.json
+C:\Users\jdani\source\repos\UniversityBinaryTree\UniversityBinaryTree\bin\Debug\netcoreapp3.1\UniversityBinaryTree.runtimeconfig.dev.json
+C:\Users\jdani\source\repos\UniversityBinaryTree\UniversityBinaryTree\bin\Debug\netcoreapp3.1\UniversityBinaryTree.dll
+C:\Users\jdani\source\repos\UniversityBinaryTree\UniversityBinaryTree\bin\Debug\netcoreapp3.1\UniversityBinaryTree.pdb
+C:\Users\jdani\source\repos\UniversityBinaryTree\UniversityBinaryTree\obj\Debug\netcoreapp3.1\UniversityBinaryTree.csprojAssemblyReference.cache
+C:\Users\jdani\source\repos\UniversityBinaryTree\UniversityBinaryTree\obj\Debug\netcoreapp3.1\UniversityBinaryTree.AssemblyInfoInputs.cache
+C:\Users\jdani\source\repos\UniversityBinaryTree\UniversityBinaryTree\obj\Debug\netcoreapp3.1\UniversityBinaryTree.AssemblyInfo.cs
+C:\Users\jdani\source\repos\UniversityBinaryTree\UniversityBinaryTree\obj\Debug\netcoreapp3.1\UniversityBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\jdani\source\repos\UniversityBinaryTree\UniversityBinaryTree\obj\Debug\netcoreapp3.1\UniversityBinaryTree.dll
+C:\Users\jdani\source\repos\UniversityBinaryTree\UniversityBinaryTree\obj\Debug\netcoreapp3.1\UniversityBinaryTree.pdb
+C:\Users\jdani\source\repos\UniversityBinaryTree\UniversityBinaryTree\obj\Debug\netcoreapp3.1\UniversityBinaryTree.genruntimeconfig.cache
